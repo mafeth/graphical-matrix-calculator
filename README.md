@@ -1,5 +1,5 @@
 # Graphical Matrix Calculator
-Hosted: https://devofvictory.github.io/graphical-matrix-calculator/
+Hosted: [https://devofvictory.github.io/graphical-matrix-calculator/](https://mafeth.github.io/graphical-matrix-calculator/)
 
 ----
 
